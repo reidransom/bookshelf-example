@@ -1,0 +1,9 @@
+{
+  "name": "bookshelf-example",
+  "version": "0.0.1",
+  "dependencies": {
+    "knex": "^0.5.13",
+    "bookshelf": "^0.6.10",
+    "sqlite3": "^2.2.0"
+  }
+}
